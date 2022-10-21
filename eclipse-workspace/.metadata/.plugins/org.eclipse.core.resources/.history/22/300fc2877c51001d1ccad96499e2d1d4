@@ -1,0 +1,10 @@
+
+public class HelloWorld {
+
+	class static void (String[] args) {
+		
+		System.out.println("Hello world, I am Kyle Schang!")
+		
+	}
+	
+}
